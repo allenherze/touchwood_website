@@ -16,7 +16,7 @@ function Landing() {
     <div className='container' id='outer-container'>
       <div className='landing-page' id='page-wrap'>
         <div className='landing-content'>
-          <h1 className='header'>Redefine Dating With Trove</h1>
+          <h1 className='header'>Redefine Socializing With Trove</h1>
           <div className='buttons'>
             {/* <Popup /> */}
             <a href='https://play.google.com/store/apps/details?id=com.kaizen9.fet.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank' rel='noopener noreferrer' className='badge-link'>
